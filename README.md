@@ -1,8 +1,10 @@
-# EE120---Capstone-Project
+# EE120 - Capstone Project
 
-This assignment was locked Feb 27, 2022 at 11:59pm.
-[This project is NOT due at the end of Module 6. It is due at the end of MODULE 7]
+This repository contains the final capstone project for EE120, which involves designing a complete digital system, integrating various components such as adders, multiplexers, and memory.
 
-In this project, you are required to design a localization machine that tracks the wheelchair and stores its current location.
+### Features:
+- Complete digital system design.
+- Integration of adders, multiplexers, and memory.
 
-Follow the instructions in the manual. Complete the lab template and submit it using the 'Submit Assignment' link above.
+This project serves as a comprehensive capstone for mastering digital circuit design.
+
