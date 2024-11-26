@@ -24,15 +24,15 @@ The project was undertaken as part of coursework in Spring 2022. The objective w
 - Designed states for movement (e.g., center, first left, first right, etc.).
 - Developed a state definition table:
 
-State	Binary	Description
-S0	000	Center
-S1	001	First Left
-S2	010	Second Left
-S3	011	Third Left
-S4	100	First Right
-S5	110	Second Right
-S6	111	Third Right
-
+| State | Binary | Description    |
+|-------|--------|----------------|
+| S0    | 000    | Center         |
+| S1    | 001    | First Left     |
+| S2    | 010    | Second Left    |
+| S3    | 011    | Third Left     |
+| S4    | 100    | First Right    |
+| S5    | 110    | Second Right   |
+| S6    | 111    | Third Right    |
 
 ### 3. Design Evaluation
 - Developed multiple designs and evaluated them using criteria such as:
